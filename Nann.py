@@ -25,7 +25,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 print("=====•ATTACK SERVER SAMP•=====")
-print(" <-------AJAY GAY TOOLS------> ")
+print(" <-------Nann Tools------> ")
 print(" ATTACKING TO SERVER » %s %s"%(orgip,port))
 
             
